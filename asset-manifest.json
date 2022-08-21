@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/grace-it/static/js/main.fa84582a.js",
+    "static/media/manager.png": "/grace-it/static/media/manager.f2710af2002fabd4da3b.png",
+    "static/media/main.svg": "/grace-it/static/media/main.4aa6b60df96261a15ec4cbd4521c18a8.svg",
+    "static/media/culture.jpg": "/grace-it/static/media/culture.6638777717f0dfd19438.jpg",
+    "static/media/office.svg": "/grace-it/static/media/office.b7b8163817845a3a13479370f141b5f6.svg",
+    "static/media/mvpone.png": "/grace-it/static/media/mvpone.0f0cad20cd11681e2b75.png",
+    "static/media/check.svg": "/grace-it/static/media/check.d3140f42079c52b1d00c3da45ce655e8.svg",
+    "index.html": "/grace-it/index.html",
+    "main.fa84582a.js.map": "/grace-it/static/js/main.fa84582a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fa84582a.js"
+  ]
+}
